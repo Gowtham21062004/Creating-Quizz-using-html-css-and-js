@@ -1,0 +1,24 @@
+p{
+    display: inline;
+    font-size: large;
+    /*   */
+    padding: 5px;
+    background-color: white;
+}
+span{
+    background-color: red;
+    color: white;
+    font-size: large;
+    padding: 5px;
+    border: 2px solid rgb(231, 81, 26);
+}
+.quizz{
+    text-align: center;
+    /* margin-left: 200px; */
+    margin-top: 20px;
+}
+.para{
+    border: 2px solid rgb(239, 220, 220);
+    padding: 5px;
+    margin-right: 50px;
+}
